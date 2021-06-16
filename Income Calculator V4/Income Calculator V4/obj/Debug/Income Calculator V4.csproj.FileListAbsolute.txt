@@ -1,0 +1,10 @@
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\bin\Debug\Income Calculator V4.exe.config
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\bin\Debug\Income Calculator V4.exe
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\bin\Debug\Income Calculator V4.pdb
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income Calculator V4.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income_Calculator_V4.Form1.resources
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income_Calculator_V4.Properties.Resources.resources
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income Calculator V4.csproj.GenerateResource.cache
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income Calculator V4.csproj.CoreCompileInputs.cache
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income Calculator V4.exe
+C:\Users\johni\source\repos\Income Calculator V4\Income Calculator V4\obj\Debug\Income Calculator V4.pdb
